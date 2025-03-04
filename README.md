@@ -1,16 +1,10 @@
 # detailed_information_task
 
-A new Flutter project.
+A new Flutter task that displays detailed information about a user. This task is designed to be used in displaying data and transfer it to another screen.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Displays detailed information about a user.
+- Uses a custom widget to display the information.
+- Uses `Dio` package for API calls.
+- Passing data to another screen using `Navigator`.
